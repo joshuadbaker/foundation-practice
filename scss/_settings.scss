@@ -576,8 +576,11 @@ $topbar-unstack-breakpoint: medium;
    }
 }
 
+i {
+  padding: .5rem;
+}
+
 .large {
-  height: 2rem;
-  width: 2rem;
+  font-size: 3.25rem;
 }
 
